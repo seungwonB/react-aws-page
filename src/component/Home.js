@@ -14,6 +14,7 @@ function Home() {
         <div>
             <input type="file" id="cameraFileInput" accept="image/*" capture="environment"/>
             <img id="pictureFromCamera" />
+            <br></br>version1.0
         </div>
     );
     
