@@ -8,3 +8,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73030613/142634522-268fa938-f9fe-4a50-b2f9-057c6c221604.png" />
 python boto3를 활용한 rekognition detect_face의 결과
+<br> ----일단 철수----> https://github.com/seungwonB/aws-rekognition-page 이걸로 진행
